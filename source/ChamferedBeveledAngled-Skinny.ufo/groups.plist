@@ -54,6 +54,10 @@
       <string>c_with_circumflex</string>
       <string>c_with_dotabove</string>
       <string>c_with_caron</string>
+      <string>n_with_smalltilde</string>
+      <string>n_with_acute</string>
+      <string>n_with_cedilla</string>
+      <string>n_with_caron</string>
       <string>a_with_grave</string>
       <string>a_with_acute</string>
       <string>a_with_circumflex</string>
@@ -67,10 +71,6 @@
       <string>a_with_breveinv</string>
       <string>a_with_dotbelow</string>
       <string>a_with_hook</string>
-      <string>n_with_smalltilde</string>
-      <string>n_with_acute</string>
-      <string>n_with_cedilla</string>
-      <string>n_with_caron</string>
     </array>
     <key>public.kern1.axxa</key>
     <array>
@@ -103,7 +103,27 @@
       <string>E_with_dotbelow</string>
       <string>E_with_smalltilde</string>
       <string>E_with_hook</string>
+      <string>C_with_cedilla</string>
+      <string>C_with_acute</string>
+      <string>C_with_circumflex</string>
+      <string>C_with_dotabove</string>
+      <string>C_with_caron</string>
+      <string>G_with_circumflex</string>
+      <string>G_with_breve</string>
+      <string>G_with_dotabove</string>
+      <string>G_with_caron</string>
       <string>AE_with_acute</string>
+      <string>Z_with_acute</string>
+      <string>Z_with_dotabove</string>
+      <string>Z_with_caron</string>
+      <string>l_with_acute</string>
+      <string>l_with_cedilla</string>
+      <string>l_with_stroke</string>
+      <string>C.alt_with_cedilla</string>
+      <string>C.alt_with_acute</string>
+      <string>C.alt_with_circumflex</string>
+      <string>C.alt_with_dotabove</string>
+      <string>C.alt_with_caron</string>
       <string>I_with_grave</string>
       <string>I_with_acute</string>
       <string>I_with_circumflex</string>
@@ -117,26 +137,6 @@
       <string>I_with_breveinv</string>
       <string>I_with_dotbelow</string>
       <string>I_with_hook</string>
-      <string>Z_with_acute</string>
-      <string>Z_with_dotabove</string>
-      <string>Z_with_caron</string>
-      <string>C.alt_with_cedilla</string>
-      <string>C.alt_with_acute</string>
-      <string>C.alt_with_circumflex</string>
-      <string>C.alt_with_dotabove</string>
-      <string>C.alt_with_caron</string>
-      <string>G_with_circumflex</string>
-      <string>G_with_breve</string>
-      <string>G_with_dotabove</string>
-      <string>G_with_caron</string>
-      <string>C_with_cedilla</string>
-      <string>C_with_acute</string>
-      <string>C_with_circumflex</string>
-      <string>C_with_dotabove</string>
-      <string>C_with_caron</string>
-      <string>l_with_acute</string>
-      <string>l_with_cedilla</string>
-      <string>l_with_stroke</string>
     </array>
     <key>public.kern1.axxr</key>
     <array>
@@ -269,13 +269,13 @@
       <string>question</string>
       <string>ampersand</string>
       <string>ordinalmasculine</string>
-      <string>t_with_cedilla</string>
-      <string>t_with_commabelow</string>
       <string>r_with_acute</string>
       <string>r_with_cedilla</string>
       <string>r_with_caron</string>
       <string>r_with_gravedbl</string>
       <string>r_with_breveinv</string>
+      <string>t_with_cedilla</string>
+      <string>t_with_commabelow</string>
     </array>
     <key>public.kern1.nr</key>
     <array>
@@ -318,15 +318,6 @@
       <string>five.alt</string>
       <string>eight.alt</string>
       <string>sigma</string>
-      <string>w_with_circumflex</string>
-      <string>w_with_grave</string>
-      <string>w_with_acute</string>
-      <string>w_with_diaeresis</string>
-      <string>s_with_acute</string>
-      <string>s_with_circumflex</string>
-      <string>s_with_cedilla</string>
-      <string>s_with_caron</string>
-      <string>s_with_commabelow</string>
       <string>u_with_grave</string>
       <string>u_with_acute</string>
       <string>u_with_circumflex</string>
@@ -342,6 +333,15 @@
       <string>u_with_dotbelow</string>
       <string>u_with_hook</string>
       <string>u_with_diaeresisbelow</string>
+      <string>s_with_acute</string>
+      <string>s_with_circumflex</string>
+      <string>s_with_cedilla</string>
+      <string>s_with_caron</string>
+      <string>s_with_commabelow</string>
+      <string>w_with_circumflex</string>
+      <string>w_with_grave</string>
+      <string>w_with_acute</string>
+      <string>w_with_diaeresis</string>
     </array>
     <key>public.kern1.rxr</key>
     <array>
@@ -386,10 +386,6 @@
       <string>S_with_cedilla</string>
       <string>S_with_caron</string>
       <string>S_with_commabelow</string>
-      <string>W_with_circumflex</string>
-      <string>W_with_grave</string>
-      <string>W_with_acute</string>
-      <string>W_with_diaeresis</string>
       <string>Y_with_acute</string>
       <string>Y_with_diaeresis</string>
       <string>Y_with_circumflex</string>
@@ -398,6 +394,7 @@
       <string>Y_with_macron</string>
       <string>Y_with_dotbelow</string>
       <string>Y_with_hook</string>
+      <string>J_with_circumflex</string>
       <string>U_with_grave</string>
       <string>U_with_acute</string>
       <string>U_with_circumflex</string>
@@ -413,7 +410,10 @@
       <string>U_with_dotbelow</string>
       <string>U_with_hook</string>
       <string>U_with_diaeresisbelow</string>
-      <string>J_with_circumflex</string>
+      <string>W_with_circumflex</string>
+      <string>W_with_grave</string>
+      <string>W_with_acute</string>
+      <string>W_with_diaeresis</string>
     </array>
     <key>public.kern1.rxxr</key>
     <array>
@@ -479,14 +479,14 @@
       <string>eng</string>
       <string>one.alt</string>
       <string>mu</string>
-      <string>z_with_acute</string>
-      <string>z_with_dotabove</string>
-      <string>z_with_caron</string>
       <string>r_with_acute</string>
       <string>r_with_cedilla</string>
       <string>r_with_caron</string>
       <string>r_with_gravedbl</string>
       <string>r_with_breveinv</string>
+      <string>z_with_acute</string>
+      <string>z_with_dotabove</string>
+      <string>z_with_caron</string>
       <string>n_with_smalltilde</string>
       <string>n_with_acute</string>
       <string>n_with_cedilla</string>
@@ -528,6 +528,13 @@
       <string>nine</string>
       <string>PI</string>
       <string>SIGMA</string>
+      <string>N_with_smalltilde</string>
+      <string>N_with_acute</string>
+      <string>N_with_cedilla</string>
+      <string>N_with_caron</string>
+      <string>L_with_acute</string>
+      <string>L_with_cedilla</string>
+      <string>L_with_stroke</string>
       <string>E_with_grave</string>
       <string>E_with_acute</string>
       <string>E_with_circumflex</string>
@@ -542,7 +549,16 @@
       <string>E_with_dotbelow</string>
       <string>E_with_smalltilde</string>
       <string>E_with_hook</string>
+      <string>k_with_cedilla</string>
       <string>K_with_cedilla</string>
+      <string>Z_with_acute</string>
+      <string>Z_with_dotabove</string>
+      <string>Z_with_caron</string>
+      <string>R_with_acute</string>
+      <string>R_with_cedilla</string>
+      <string>R_with_caron</string>
+      <string>R_with_gravedbl</string>
+      <string>R_with_breveinv</string>
       <string>I_with_grave</string>
       <string>I_with_acute</string>
       <string>I_with_circumflex</string>
@@ -556,22 +572,6 @@
       <string>I_with_breveinv</string>
       <string>I_with_dotbelow</string>
       <string>I_with_hook</string>
-      <string>L_with_acute</string>
-      <string>L_with_cedilla</string>
-      <string>L_with_stroke</string>
-      <string>Z_with_acute</string>
-      <string>Z_with_dotabove</string>
-      <string>Z_with_caron</string>
-      <string>N_with_smalltilde</string>
-      <string>N_with_acute</string>
-      <string>N_with_cedilla</string>
-      <string>N_with_caron</string>
-      <string>k_with_cedilla</string>
-      <string>R_with_acute</string>
-      <string>R_with_cedilla</string>
-      <string>R_with_caron</string>
-      <string>R_with_gravedbl</string>
-      <string>R_with_breveinv</string>
     </array>
     <key>public.kern2.axxr</key>
     <array>
@@ -591,14 +591,11 @@
       <string>S_with_cedilla</string>
       <string>S_with_caron</string>
       <string>S_with_commabelow</string>
-      <string>AE_with_acute</string>
       <string>i_with_ogonek</string>
       <string>i_with_gravedbl</string>
       <string>i_with_breveinv</string>
       <string>i_with_dotbelow</string>
       <string>i_with_hook</string>
-      <string>t_with_cedilla</string>
-      <string>t_with_commabelow</string>
       <string>A_with_diaeresis</string>
       <string>A_with_grave</string>
       <string>A_with_acute</string>
@@ -612,6 +609,9 @@
       <string>A_with_breveinv</string>
       <string>A_with_dotbelow</string>
       <string>A_with_hook</string>
+      <string>t_with_cedilla</string>
+      <string>t_with_commabelow</string>
+      <string>AE_with_acute</string>
     </array>
     <key>public.kern2.axxxa</key>
     <array>
@@ -701,10 +701,6 @@
       <string>y</string>
       <string>five.alt</string>
       <string>eight.alt</string>
-      <string>w_with_circumflex</string>
-      <string>w_with_grave</string>
-      <string>w_with_acute</string>
-      <string>w_with_diaeresis</string>
       <string>y_with_acute</string>
       <string>y_with_diaeresis</string>
       <string>y_with_circumflex</string>
@@ -728,6 +724,10 @@
       <string>u_with_dotbelow</string>
       <string>u_with_hook</string>
       <string>u_with_diaeresisbelow</string>
+      <string>w_with_circumflex</string>
+      <string>w_with_grave</string>
+      <string>w_with_acute</string>
+      <string>w_with_diaeresis</string>
     </array>
     <key>public.kern2.rxr</key>
     <array>
@@ -748,21 +748,16 @@
       <string>nine.alt</string>
       <string>pi</string>
       <string>sigma</string>
-      <string>o_with_grave</string>
-      <string>o_with_acute</string>
-      <string>o_with_circumflex</string>
-      <string>o_with_smalltilde</string>
-      <string>o_with_diaeresis</string>
-      <string>o_with_stroke</string>
-      <string>o_with_macron</string>
-      <string>o_with_breve</string>
-      <string>o_with_ogonek</string>
-      <string>o_with_acutedbl</string>
-      <string>o_with_gravedbl</string>
-      <string>o_with_breveinv</string>
-      <string>o_with_dotbelow</string>
-      <string>o_with_hook</string>
+      <string>c_with_cedilla</string>
+      <string>c_with_acute</string>
+      <string>c_with_circumflex</string>
+      <string>c_with_dotabove</string>
+      <string>c_with_caron</string>
       <string>ae_with_acute</string>
+      <string>g_with_circumflex</string>
+      <string>g_with_breve</string>
+      <string>g_with_dotabove</string>
+      <string>g_with_caron</string>
       <string>e_with_grave</string>
       <string>e_with_acute</string>
       <string>e_with_circumflex</string>
@@ -777,15 +772,20 @@
       <string>e_with_dotbelow</string>
       <string>e_with_smalltilde</string>
       <string>e_with_hook</string>
-      <string>c_with_cedilla</string>
-      <string>c_with_acute</string>
-      <string>c_with_circumflex</string>
-      <string>c_with_dotabove</string>
-      <string>c_with_caron</string>
-      <string>g_with_circumflex</string>
-      <string>g_with_breve</string>
-      <string>g_with_dotabove</string>
-      <string>g_with_caron</string>
+      <string>o_with_grave</string>
+      <string>o_with_acute</string>
+      <string>o_with_circumflex</string>
+      <string>o_with_smalltilde</string>
+      <string>o_with_diaeresis</string>
+      <string>o_with_stroke</string>
+      <string>o_with_macron</string>
+      <string>o_with_breve</string>
+      <string>o_with_ogonek</string>
+      <string>o_with_acutedbl</string>
+      <string>o_with_gravedbl</string>
+      <string>o_with_breveinv</string>
+      <string>o_with_dotbelow</string>
+      <string>o_with_hook</string>
       <string>a_with_grave</string>
       <string>a_with_acute</string>
       <string>a_with_circumflex</string>
@@ -812,10 +812,6 @@
       <string>exclamation</string>
       <string>yen</string>
       <string>won</string>
-      <string>W_with_circumflex</string>
-      <string>W_with_grave</string>
-      <string>W_with_acute</string>
-      <string>W_with_diaeresis</string>
       <string>Y_with_acute</string>
       <string>Y_with_diaeresis</string>
       <string>Y_with_circumflex</string>
@@ -824,6 +820,9 @@
       <string>Y_with_macron</string>
       <string>Y_with_dotbelow</string>
       <string>Y_with_hook</string>
+      <string>l_with_acute</string>
+      <string>l_with_cedilla</string>
+      <string>l_with_stroke</string>
       <string>U_with_grave</string>
       <string>U_with_acute</string>
       <string>U_with_circumflex</string>
@@ -839,9 +838,10 @@
       <string>U_with_dotbelow</string>
       <string>U_with_hook</string>
       <string>U_with_diaeresisbelow</string>
-      <string>l_with_acute</string>
-      <string>l_with_cedilla</string>
-      <string>l_with_stroke</string>
+      <string>W_with_circumflex</string>
+      <string>W_with_grave</string>
+      <string>W_with_acute</string>
+      <string>W_with_diaeresis</string>
     </array>
     <key>public.kern2.rxxr</key>
     <array>
@@ -859,20 +859,15 @@
       <string>question</string>
       <string>ampersand</string>
       <string>euro</string>
-      <string>C.alt_with_cedilla</string>
-      <string>C.alt_with_acute</string>
-      <string>C.alt_with_circumflex</string>
-      <string>C.alt_with_dotabove</string>
-      <string>C.alt_with_caron</string>
-      <string>G_with_circumflex</string>
-      <string>G_with_breve</string>
-      <string>G_with_dotabove</string>
-      <string>G_with_caron</string>
       <string>C_with_cedilla</string>
       <string>C_with_acute</string>
       <string>C_with_circumflex</string>
       <string>C_with_dotabove</string>
       <string>C_with_caron</string>
+      <string>G_with_circumflex</string>
+      <string>G_with_breve</string>
+      <string>G_with_dotabove</string>
+      <string>G_with_caron</string>
       <string>O_with_grave</string>
       <string>O_with_acute</string>
       <string>O_with_circumflex</string>
@@ -887,6 +882,11 @@
       <string>O_with_breveinv</string>
       <string>O_with_dotbelow</string>
       <string>O_with_hook</string>
+      <string>C.alt_with_cedilla</string>
+      <string>C.alt_with_acute</string>
+      <string>C.alt_with_circumflex</string>
+      <string>C.alt_with_dotabove</string>
+      <string>C.alt_with_caron</string>
     </array>
     <key>public.kern2.rxxxr</key>
     <array>

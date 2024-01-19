@@ -31,12 +31,12 @@
       <point x="274.5250015258789" y="106.2461166381836" type="line"/>
     </contour>
     <contour>
-      <point x="158.2711181640625" y="0" type="line"/>
-      <point x="227.0250015258789" y="0" type="line"/>
+      <point x="158.2711181640625" y="-5" type="line"/>
+      <point x="227.0250015258789" y="-5" type="line"/>
       <point x="227.0250015258789" y="400" type="line"/>
       <point x="158.2711181640625" y="400" type="line"/>
       <point x="47.025001525878906" y="288.7538833618164" type="line"/>
-      <point x="47.025001525878906" y="111.2461166381836" type="line"/>
+      <point x="47.025001525878906" y="106.2461166381836" type="line"/>
     </contour>
   </outline>
 </glyph>

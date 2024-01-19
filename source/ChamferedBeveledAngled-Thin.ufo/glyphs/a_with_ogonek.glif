@@ -19,12 +19,12 @@
       <point x="173.125" y="56.80339813232422" type="line"/>
     </contour>
     <contour>
-      <point x="97.42839813232422" y="0" type="line"/>
-      <point x="135.625" y="0" type="line"/>
+      <point x="97.42839813232422" y="-5" type="line"/>
+      <point x="135.625" y="-5" type="line"/>
       <point x="135.625" y="400" type="line"/>
       <point x="97.42839813232422" y="400" type="line"/>
       <point x="35.625" y="338.1966018676758" type="line"/>
-      <point x="35.625" y="61.80339813232422" type="line"/>
+      <point x="35.625" y="56.80339813232422" type="line"/>
     </contour>
     <contour>
       <point x="273.125" y="-130.0" type="line"/>
