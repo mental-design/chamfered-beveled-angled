@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="PI" format="2">
+  <advance width="489.95"/>
+  <unicode hex="03A0"/>
+  <outline>
+    <contour>
+      <point x="41.224998474121094" y="660" type="line"/>
+      <point x="448.7249984741211" y="660" type="line"/>
+      <point x="448.7249984741211" y="800" type="line"/>
+      <point x="41.224998474121094" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="83.7249984741211" y="0" type="line"/>
+      <point x="223.7249984741211" y="0" type="line"/>
+      <point x="223.7249984741211" y="627.5" type="line"/>
+      <point x="83.7249984741211" y="627.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="266.2249984741211" y="0" type="line"/>
+      <point x="406.2249984741211" y="0" type="line"/>
+      <point x="406.2249984741211" y="627.5" type="line"/>
+      <point x="266.2249984741211" y="627.5" type="line"/>
+    </contour>
+  </outline>
+</glyph>

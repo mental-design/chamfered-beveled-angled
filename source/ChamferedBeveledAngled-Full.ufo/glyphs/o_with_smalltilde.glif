@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="o_with_smalltilde" format="2">
+  <advance width="550.0"/>
+  <unicode hex="00F5"/>
+  <outline>
+    <contour>
+      <point x="75" y="709.7265319824219" type="line"/>
+      <point x="75" y="633.3333358764648" type="line"/>
+      <point x="351.39320373535156" y="633.3333358764648" type="line"/>
+      <point x="475" y="756.9401321411133" type="line"/>
+      <point x="475" y="833.3333358764648" type="line"/>
+      <point x="198.60679626464844" y="833.3333358764648" type="line"/>
+    </contour>
+    <contour>
+      <point x="173.60679626464844" y="-5" type="line"/>
+      <point x="250" y="-5" type="line"/>
+      <point x="250" y="605" type="line"/>
+      <point x="173.60679626464844" y="605" type="line"/>
+      <point x="50" y="481.39320373535156" type="line"/>
+      <point x="50" y="118.60679626464844" type="line"/>
+    </contour>
+    <contour>
+      <point x="376.39320373535156" y="-5" type="line"/>
+      <point x="500" y="118.60679626464844" type="line"/>
+      <point x="500" y="481.39320373535156" type="line"/>
+      <point x="376.39320373535156" y="605" type="line"/>
+      <point x="300" y="605" type="line"/>
+      <point x="300" y="-5" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="C.alt_with_dotabove" format="2">
+  <advance width="453.2"/>
+  <outline>
+    <contour>
+      <point x="146.6" y="878.8888888888889" type="line"/>
+      <point x="306.6" y="878.8888888888889" type="line"/>
+      <point x="306.6" y="1038.888888888889" type="line"/>
+      <point x="146.6" y="1038.888888888889" type="line"/>
+    </contour>
+    <contour>
+      <point x="142.98544311523438" y="0" type="line"/>
+      <point x="204.0999984741211" y="0" type="line"/>
+      <point x="204.0999984741211" y="800" type="line"/>
+      <point x="142.98544311523438" y="800" type="line"/>
+      <point x="44.099998474121094" y="701.1145629882812" type="line"/>
+      <point x="44.099998474121094" y="98.88543701171875" type="line"/>
+    </contour>
+    <contour>
+      <point x="409.1" y="800.0" type="line"/>
+      <point x="249.1" y="800.0" type="line"/>
+      <point x="249.1" y="738.88544" type="line"/>
+      <point x="347.98544000000004" y="640.0" type="line"/>
+      <point x="409.1" y="640.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="409.1" y="0.0" type="line"/>
+      <point x="409.1" y="160.0" type="line"/>
+      <point x="347.98544000000004" y="160.0" type="line"/>
+      <point x="249.1" y="61.11456" type="line"/>
+      <point x="249.1" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

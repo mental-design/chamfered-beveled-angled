@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="z_with_dotabove" format="2">
+  <advance width="260.8"/>
+  <unicode hex="017C"/>
+  <outline>
+    <contour>
+      <point x="90.4" y="770.0" type="line"/>
+      <point x="170.4" y="770.0" type="line"/>
+      <point x="170.4" y="850.0" type="line"/>
+      <point x="90.4" y="850.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="32.9" y="600.0" type="line"/>
+      <point x="32.9" y="520.0" type="line"/>
+      <point x="63.45728" y="520.0" type="line"/>
+      <point x="112.9" y="569.44272" type="line"/>
+      <point x="112.9" y="600.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="178.45728302001953" y="260" type="line"/>
+      <point x="227.9000015258789" y="309.4427185058594" type="line"/>
+      <point x="227.9000015258789" y="600" type="line"/>
+      <point x="147.9000015258789" y="600" type="line"/>
+      <point x="147.9000015258789" y="260" type="line"/>
+    </contour>
+    <contour>
+      <point x="32.900001525878906" y="0" type="line"/>
+      <point x="112.9000015258789" y="0" type="line"/>
+      <point x="112.9000015258789" y="340" type="line"/>
+      <point x="82.34272003173828" y="340" type="line"/>
+      <point x="32.900001525878906" y="290.5572814941406" type="line"/>
+    </contour>
+    <contour>
+      <point x="227.9" y="0.0" type="line"/>
+      <point x="227.9" y="80.0" type="line"/>
+      <point x="197.34272" y="80.0" type="line"/>
+      <point x="147.9" y="30.55728" type="line"/>
+      <point x="147.9" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

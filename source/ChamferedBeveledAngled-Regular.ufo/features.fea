@@ -1,0 +1,13 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+@C = [C C_with_cedilla C_with_acute C_with_circumflex C_with_dotabove C_with_caron];
+@C.alt = [C.alt C.alt_with_cedilla C.alt_with_acute C.alt_with_circumflex C.alt_with_dotabove C.alt_with_caron];
+
+feature aalt {
+    feature ss01;
+} aalt;
+
+feature ss01 {
+    sub @C by @C.alt;
+} ss01;

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="combining_commabelow" format="2">
+  <advance width="171.25"/>
+  <unicode hex="0326"/>
+  <outline>
+    <contour>
+      <point x="-273.125" y="-50.0" type="line"/>
+      <point x="-273.125" y="-150.0" type="line"/>
+      <point x="-234.9284" y="-150.0" type="line"/>
+      <point x="-173.125" y="-88.1966" type="line"/>
+      <point x="-173.125" y="-50.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

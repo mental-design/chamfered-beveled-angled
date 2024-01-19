@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="combining_breve" format="2">
+  <advance width="453.2"/>
+  <unicode hex="0306"/>
+  <outline>
+    <contour>
+      <point x="-386.5999984741211" y="737.7743301391602" type="line"/>
+      <point x="-287.71456146240234" y="638.8888931274414" type="line"/>
+      <point x="-165.48544311523438" y="638.8888931274414" type="line"/>
+      <point x="-66.5999984741211" y="737.7743301391602" type="line"/>
+      <point x="-66.5999984741211" y="798.8888931274414" type="line"/>
+      <point x="-386.5999984741211" y="798.8888931274414" type="line"/>
+    </contour>
+  </outline>
+</glyph>

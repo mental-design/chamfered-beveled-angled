@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I_with_dotabove" format="2">
+  <advance width="274.05"/>
+  <unicode hex="0130"/>
+  <outline>
+    <contour>
+      <point x="47.025000000000006" y="856.1111111111111" type="line"/>
+      <point x="227.025" y="856.1111111111111" type="line"/>
+      <point x="227.025" y="1036.111111111111" type="line"/>
+      <point x="47.025000000000006" y="1036.111111111111" type="line"/>
+    </contour>
+    <contour>
+      <point x="47.025001525878906" y="0" type="line"/>
+      <point x="227.0250015258789" y="0" type="line"/>
+      <point x="227.0250015258789" y="800" type="line"/>
+      <point x="47.025001525878906" y="800" type="line"/>
+    </contour>
+  </outline>
+</glyph>

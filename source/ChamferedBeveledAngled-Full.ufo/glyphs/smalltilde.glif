@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="smalltilde" format="2">
+  <advance width="550.0"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <contour>
+      <point x="75" y="876.3932037353516" type="line"/>
+      <point x="75" y="800" type="line"/>
+      <point x="351.39320373535156" y="800" type="line"/>
+      <point x="475" y="923.6067962646484" type="line"/>
+      <point x="475" y="1000" type="line"/>
+      <point x="198.60679626464844" y="1000" type="line"/>
+    </contour>
+  </outline>
+</glyph>

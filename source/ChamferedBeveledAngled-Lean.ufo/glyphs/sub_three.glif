@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sub_three" format="2">
+  <advance width="404.95"/>
+  <unicode hex="2083"/>
+  <outline>
+    <contour>
+      <point x="41.225" y="400.0" type="line"/>
+      <point x="41.225" y="260.0" type="line"/>
+      <point x="94.70024000000001" y="260.0" type="line"/>
+      <point x="181.225" y="346.52476" type="line"/>
+      <point x="181.225" y="400.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="277.2002410888672" y="-205" type="line"/>
+      <point x="363.7249984741211" y="-118.4752426147461" type="line"/>
+      <point x="363.7249984741211" y="113.4752426147461" type="line"/>
+      <point x="277.2002410888672" y="200" type="line"/>
+      <point x="363.7249984741211" y="286.5247573852539" type="line"/>
+      <point x="363.7249984741211" y="400" type="line"/>
+      <point x="223.7249984741211" y="400" type="line"/>
+      <point x="223.7249984741211" y="-205" type="line"/>
+    </contour>
+    <contour>
+      <point x="181.225" y="-65.0" type="line"/>
+      <point x="41.225" y="-65.0" type="line"/>
+      <point x="41.225" y="-118.47524" type="line"/>
+      <point x="127.74976000000001" y="-205.0" type="line"/>
+      <point x="181.225" y="-205.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

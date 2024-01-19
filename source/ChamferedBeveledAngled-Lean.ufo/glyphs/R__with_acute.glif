@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="R_with_acute" format="2">
+  <advance width="404.95"/>
+  <unicode hex="0154"/>
+  <outline>
+    <contour>
+      <point x="193.725" y="981.6666666666666" type="line"/>
+      <point x="193.725" y="841.6666666666666" type="line"/>
+      <point x="247.20024" y="841.6666666666666" type="line"/>
+      <point x="333.725" y="928.1914266666666" type="line"/>
+      <point x="333.725" y="981.6666666666666" type="line"/>
+    </contour>
+    <contour>
+      <point x="41.224998474121094" y="0" type="line"/>
+      <point x="181.2249984741211" y="0" type="line"/>
+      <point x="181.2249984741211" y="800" type="line"/>
+      <point x="41.224998474121094" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="223.7249984741211" y="0" type="line"/>
+      <point x="363.7249984741211" y="0" type="line"/>
+      <point x="363.7249984741211" y="113.4752426147461" type="line"/>
+      <point x="277.2002410888672" y="200" type="line"/>
+      <point x="363.7249984741211" y="286.5247573852539" type="line"/>
+      <point x="363.7249984741211" y="713.4752426147461" type="line"/>
+      <point x="277.2002410888672" y="800" type="line"/>
+      <point x="223.7249984741211" y="800" type="line"/>
+    </contour>
+  </outline>
+</glyph>

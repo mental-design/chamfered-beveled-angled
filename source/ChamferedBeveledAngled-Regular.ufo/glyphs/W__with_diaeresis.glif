@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W_with_diaeresis" format="2">
+  <advance width="729.05"/>
+  <unicode hex="1E84"/>
+  <outline>
+    <contour>
+      <point x="160.77499999999998" y="856.1111111111111" type="line"/>
+      <point x="340.775" y="856.1111111111111" type="line"/>
+      <point x="340.775" y="1036.111111111111" type="line"/>
+      <point x="160.77499999999998" y="1036.111111111111" type="line"/>
+    </contour>
+    <contour>
+      <point x="388.275" y="856.1111111111111" type="line"/>
+      <point x="568.275" y="856.1111111111111" type="line"/>
+      <point x="568.275" y="1036.111111111111" type="line"/>
+      <point x="388.275" y="1036.111111111111" type="line"/>
+    </contour>
+    <contour>
+      <point x="158.2711181640625" y="0" type="line"/>
+      <point x="227.0250015258789" y="0" type="line"/>
+      <point x="227.0250015258789" y="688.7538833618164" type="line"/>
+      <point x="115.77887725830078" y="800" type="line"/>
+      <point x="47.025001525878906" y="800" type="line"/>
+      <point x="47.025001525878906" y="111.2461166381836" type="line"/>
+    </contour>
+    <contour>
+      <point x="274.5250015258789" y="0" type="line"/>
+      <point x="454.5250015258789" y="0" type="line"/>
+      <point x="454.5250015258789" y="688.7538833618164" type="line"/>
+      <point x="343.2788772583008" y="800" type="line"/>
+      <point x="274.5250015258789" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="570.7788772583008" y="0" type="line"/>
+      <point x="682.0250015258789" y="111.2461166381836" type="line"/>
+      <point x="682.0250015258789" y="800" type="line"/>
+      <point x="502.0250015258789" y="800" type="line"/>
+      <point x="502.0250015258789" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="invquestion" format="2">
+  <advance width="550.0"/>
+  <unicode hex="00BF"/>
+  <outline>
+    <contour>
+      <point x="300.0" y="400" type="line"/>
+      <point x="500.0" y="400" type="line"/>
+      <point x="500.0" y="600" type="line"/>
+      <point x="300.0" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="350" type="line"/>
+      <point x="300" y="5" type="line"/>
+      <point x="376.39320373535156" y="5" type="line"/>
+      <point x="500" y="128.60679626464844" type="line"/>
+      <point x="500" y="350" type="line"/>
+    </contour>
+    <contour>
+      <point x="173.60679626464844" y="-205" type="line"/>
+      <point x="250" y="-205" type="line"/>
+      <point x="250" y="195" type="line"/>
+      <point x="173.60679626464844" y="195" type="line"/>
+      <point x="50" y="71.39320373535156" type="line"/>
+      <point x="50" y="-81.39320373535156" type="line"/>
+    </contour>
+    <contour>
+      <point x="500.0" y="-205.0" type="line"/>
+      <point x="500.0" y="-5.0" type="line"/>
+      <point x="423.6068" y="-5.0" type="line"/>
+      <point x="300.0" y="-128.6068" type="line"/>
+      <point x="300.0" y="-205.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

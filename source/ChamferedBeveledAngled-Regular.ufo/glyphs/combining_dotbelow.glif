@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="combining_dotbelow" format="2">
+  <advance width="274.05"/>
+  <unicode hex="0323"/>
+  <outline>
+    <contour>
+      <point x="-454.52500000000003" y="-190.0" type="line"/>
+      <point x="-274.52500000000003" y="-190.0" type="line"/>
+      <point x="-274.52500000000003" y="-10.0" type="line"/>
+      <point x="-454.52500000000003" y="-10.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

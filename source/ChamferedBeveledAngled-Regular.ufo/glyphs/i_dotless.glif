@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i_dotless" format="2">
+  <advance width="274.05"/>
+  <unicode hex="0131"/>
+  <outline>
+    <contour>
+      <point x="47.025001525878906" y="0" type="line"/>
+      <point x="227.0250015258789" y="0" type="line"/>
+      <point x="227.0250015258789" y="600" type="line"/>
+      <point x="47.025001525878906" y="600" type="line"/>
+    </contour>
+  </outline>
+</glyph>

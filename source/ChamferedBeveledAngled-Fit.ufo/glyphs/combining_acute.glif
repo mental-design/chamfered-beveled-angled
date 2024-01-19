@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="combining_acute" format="2">
+  <advance width="248.2"/>
+  <unicode hex="0301"/>
+  <outline>
+    <contour>
+      <point x="-339.09999999999997" y="798.88889" type="line"/>
+      <point x="-339.09999999999997" y="638.88889" type="line"/>
+      <point x="-277.98544" y="638.88889" type="line"/>
+      <point x="-179.1" y="737.77433" type="line"/>
+      <point x="-179.1" y="798.88889" type="line"/>
+    </contour>
+  </outline>
+</glyph>

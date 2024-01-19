@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="florin" format="2">
+  <advance width="658.2"/>
+  <unicode hex="0192"/>
+  <outline>
+    <contour>
+      <point x="310.21456146240234" y="0" type="line"/>
+      <point x="409.0999984741211" y="98.88543701171875" type="line"/>
+      <point x="409.0999984741211" y="805" type="line"/>
+      <point x="347.9854431152344" y="805" type="line"/>
+      <point x="249.0999984741211" y="706.1145629882812" type="line"/>
+      <point x="249.0999984741211" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="619.1" y="752.46711" type="line"/>
+      <point x="566.5671100000001" y="805.0" type="line"/>
+      <point x="501.63289000000003" y="805.0" type="line"/>
+      <point x="449.1" y="752.46711" type="line"/>
+      <point x="449.1" y="687.53289" type="line"/>
+      <point x="501.63289000000003" y="635.0" type="line"/>
+      <point x="566.5671100000001" y="635.0" type="line"/>
+      <point x="619.1" y="687.53289" type="line"/>
+    </contour>
+    <contour>
+      <point x="104.0999984741211" y="410" type="line"/>
+      <point x="204.0999984741211" y="410" type="line"/>
+      <point x="204.0999984741211" y="490" type="line"/>
+      <point x="104.0999984741211" y="490" type="line"/>
+    </contour>
+    <contour>
+      <point x="454.0999984741211" y="410" type="line"/>
+      <point x="574.0999984741211" y="410" type="line"/>
+      <point x="574.0999984741211" y="490" type="line"/>
+      <point x="454.0999984741211" y="490" type="line"/>
+    </contour>
+    <contour>
+      <point x="209.1" y="112.46711" type="line"/>
+      <point x="156.56711" y="165.0" type="line"/>
+      <point x="91.63289" y="165.0" type="line"/>
+      <point x="39.1" y="112.46711" type="line"/>
+      <point x="39.1" y="47.53289" type="line"/>
+      <point x="91.63289" y="-5.0" type="line"/>
+      <point x="156.56711" y="-5.0" type="line"/>
+      <point x="209.1" y="47.53289" type="line"/>
+    </contour>
+  </outline>
+</glyph>

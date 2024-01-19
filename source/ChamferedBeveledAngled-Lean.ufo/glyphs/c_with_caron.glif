@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="c_with_caron" format="2">
+  <advance width="404.95"/>
+  <unicode hex="010D"/>
+  <outline>
+    <contour>
+      <point x="58.099999999999994" y="641.6666666666666" type="line"/>
+      <point x="198.1" y="641.6666666666666" type="line"/>
+      <point x="198.1" y="695.1419066666666" type="line"/>
+      <point x="111.57524" y="781.6666666666666" type="line"/>
+      <point x="58.099999999999994" y="781.6666666666666" type="line"/>
+    </contour>
+    <contour>
+      <point x="346.85" y="641.6666666666666" type="line"/>
+      <point x="346.85" y="781.6666666666666" type="line"/>
+      <point x="293.37476" y="781.6666666666666" type="line"/>
+      <point x="206.85" y="695.1419066666666" type="line"/>
+      <point x="206.85" y="641.6666666666666" type="line"/>
+    </contour>
+    <contour>
+      <point x="127.74976348876953" y="0" type="line"/>
+      <point x="181.2249984741211" y="0" type="line"/>
+      <point x="181.2249984741211" y="600" type="line"/>
+      <point x="127.74976348876953" y="600" type="line"/>
+      <point x="41.224998474121094" y="513.4752426147461" type="line"/>
+      <point x="41.224998474121094" y="86.5247573852539" type="line"/>
+    </contour>
+    <contour>
+      <point x="363.725" y="600.0" type="line"/>
+      <point x="223.725" y="600.0" type="line"/>
+      <point x="223.725" y="546.52476" type="line"/>
+      <point x="310.24976000000004" y="460.0" type="line"/>
+      <point x="363.725" y="460.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="361.5375" y="0.0" type="line"/>
+      <point x="361.5375" y="140.0" type="line"/>
+      <point x="308.06226000000004" y="140.0" type="line"/>
+      <point x="221.5375" y="53.47524" type="line"/>
+      <point x="221.5375" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

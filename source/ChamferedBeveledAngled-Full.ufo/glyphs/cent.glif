@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cent" format="2">
+  <advance width="550.0"/>
+  <unicode hex="00A2"/>
+  <outline>
+    <contour>
+      <point x="150" y="0" type="line"/>
+      <point x="250" y="0" type="line"/>
+      <point x="250" y="600" type="line"/>
+      <point x="150" y="600" type="line"/>
+      <point x="150" y="481.39320373535156" type="line"/>
+      <point x="50" y="381.39320373535156" type="line"/>
+      <point x="50" y="218.60679626464844" type="line"/>
+      <point x="150" y="118.60679626464844" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="510" type="line"/>
+      <point x="400" y="510" type="line"/>
+      <point x="400" y="600" type="line"/>
+      <point x="300" y="600" type="line"/>
+      <point x="300" y="433.60679626464844" type="line"/>
+      <point x="423.60679626464844" y="310" type="line"/>
+      <point x="500" y="310" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="0" type="line"/>
+      <point x="400" y="0" type="line"/>
+      <point x="400" y="90" type="line"/>
+      <point x="500" y="90" type="line"/>
+      <point x="500" y="290" type="line"/>
+      <point x="423.60679626464844" y="290" type="line"/>
+      <point x="300" y="166.39320373535156" type="line"/>
+    </contour>
+  </outline>
+</glyph>

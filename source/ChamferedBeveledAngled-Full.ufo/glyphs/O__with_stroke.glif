@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="O_with_stroke" format="2">
+  <advance width="550.0"/>
+  <unicode hex="00D8"/>
+  <outline>
+    <contour>
+      <point x="350" y="900" type="line"/>
+      <point x="350" y="805" type="line"/>
+      <point x="300" y="805" type="line"/>
+      <point x="300" y="-5" type="line"/>
+      <point x="376.39320373535156" y="-5" type="line"/>
+      <point x="500" y="118.60679626464844" type="line"/>
+      <point x="500" y="681.3932037353516" type="line"/>
+      <point x="453.89320373535156" y="727.5" type="line"/>
+      <point x="550" y="823.6067962646484" type="line"/>
+      <point x="550" y="900" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="-100" type="line"/>
+      <point x="200" y="-5" type="line"/>
+      <point x="250" y="-5" type="line"/>
+      <point x="250" y="805" type="line"/>
+      <point x="173.60679626464844" y="805" type="line"/>
+      <point x="50" y="681.3932037353516" type="line"/>
+      <point x="50" y="118.60679626464844" type="line"/>
+      <point x="96.10679626464844" y="72.5" type="line"/>
+      <point x="0" y="-23.606796264648438" type="line"/>
+      <point x="0" y="-100" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="combining_dotabove" format="2">
+  <advance width="196.8"/>
+  <unicode hex="0307"/>
+  <outline>
+    <contour>
+      <point x="-318.40000000000003" y="724.44444" type="line"/>
+      <point x="-198.4" y="724.44444" type="line"/>
+      <point x="-198.4" y="844.44444" type="line"/>
+      <point x="-318.40000000000003" y="844.44444" type="line"/>
+    </contour>
+  </outline>
+</glyph>

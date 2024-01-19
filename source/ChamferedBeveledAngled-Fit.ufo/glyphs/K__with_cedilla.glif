@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K_with_cedilla" format="2">
+  <advance width="453.2"/>
+  <unicode hex="0136"/>
+  <outline>
+    <contour>
+      <point x="44.099998474121094" y="0" type="line"/>
+      <point x="204.0999984741211" y="0" type="line"/>
+      <point x="204.0999984741211" y="800" type="line"/>
+      <point x="44.099998474121094" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="249.0999984741211" y="0" type="line"/>
+      <point x="409.0999984741211" y="0" type="line"/>
+      <point x="409.0999984741211" y="301.11456298828125" type="line"/>
+      <point x="310.21456146240234" y="400" type="line"/>
+      <point x="409.0999984741211" y="498.88543701171875" type="line"/>
+      <point x="409.0999984741211" y="800" type="line"/>
+      <point x="249.0999984741211" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="216.6" y="-185.0" type="line"/>
+      <point x="376.6" y="-185.0" type="line"/>
+      <point x="376.6" y="-123.88544" type="line"/>
+      <point x="277.71456" y="-25.0" type="line"/>
+      <point x="216.6" y="-25.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

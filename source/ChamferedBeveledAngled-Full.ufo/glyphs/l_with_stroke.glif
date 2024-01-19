@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l_with_stroke" format="2">
+  <advance width="350.0"/>
+  <unicode hex="0142"/>
+  <outline>
+    <contour>
+      <point x="73.60679626464844" y="500" type="line"/>
+      <point x="-50" y="376.39320373535156" type="line"/>
+      <point x="-50" y="300" type="line"/>
+      <point x="75" y="300" type="line"/>
+      <point x="75" y="118.60679626464844" type="line"/>
+      <point x="198.60679626464844" y="-5" type="line"/>
+      <point x="275" y="-5" type="line"/>
+      <point x="275" y="400" type="line"/>
+      <point x="276.39320373535156" y="400" type="line"/>
+      <point x="400" y="523.6067962646484" type="line"/>
+      <point x="400" y="600" type="line"/>
+      <point x="275" y="600" type="line"/>
+      <point x="275" y="800" type="line"/>
+      <point x="75" y="800" type="line"/>
+      <point x="75" y="500" type="line"/>
+    </contour>
+  </outline>
+</glyph>

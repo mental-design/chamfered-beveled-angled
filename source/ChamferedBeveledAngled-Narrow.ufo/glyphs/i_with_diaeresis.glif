@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i_with_diaeresis" format="2">
+  <advance width="196.8"/>
+  <unicode hex="00EF"/>
+  <outline>
+    <contour>
+      <point x="-41.599999999999994" y="724.4444444444445" type="line"/>
+      <point x="78.4" y="724.4444444444445" type="line"/>
+      <point x="78.4" y="844.4444444444445" type="line"/>
+      <point x="-41.599999999999994" y="844.4444444444445" type="line"/>
+    </contour>
+    <contour>
+      <point x="118.4" y="724.4444444444445" type="line"/>
+      <point x="238.4" y="724.4444444444445" type="line"/>
+      <point x="238.4" y="844.4444444444445" type="line"/>
+      <point x="118.4" y="844.4444444444445" type="line"/>
+    </contour>
+    <contour>
+      <point x="38.400001525878906" y="0" type="line"/>
+      <point x="158.4000015258789" y="0" type="line"/>
+      <point x="158.4000015258789" y="600" type="line"/>
+      <point x="38.400001525878906" y="600" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="y_with_macron" format="2">
+  <advance width="404.95"/>
+  <unicode hex="0233"/>
+  <outline>
+    <contour>
+      <point x="62.474998474121094" y="641.6666641235352" type="line"/>
+      <point x="342.4749984741211" y="641.6666641235352" type="line"/>
+      <point x="342.4749984741211" y="781.6666641235352" type="line"/>
+      <point x="62.474998474121094" y="781.6666641235352" type="line"/>
+    </contour>
+    <contour>
+      <point x="127.74976348876953" y="5" type="line"/>
+      <point x="181.2249984741211" y="5" type="line"/>
+      <point x="181.2249984741211" y="513.4752426147461" type="line"/>
+      <point x="94.70024108886719" y="600" type="line"/>
+      <point x="41.224998474121094" y="600" type="line"/>
+      <point x="41.224998474121094" y="91.5247573852539" type="line"/>
+    </contour>
+    <contour>
+      <point x="277.2002410888672" y="-210" type="line"/>
+      <point x="363.7249984741211" y="-123.4752426147461" type="line"/>
+      <point x="363.7249984741211" y="600" type="line"/>
+      <point x="223.7249984741211" y="600" type="line"/>
+      <point x="223.7249984741211" y="-210" type="line"/>
+    </contour>
+    <contour>
+      <point x="181.225" y="-70.0" type="line"/>
+      <point x="41.225" y="-70.0" type="line"/>
+      <point x="41.225" y="-123.47524" type="line"/>
+      <point x="127.74976000000001" y="-210.0" type="line"/>
+      <point x="181.225" y="-210.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

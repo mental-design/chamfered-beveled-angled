@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="not_equal" format="2">
+  <advance width="587.45"/>
+  <unicode hex="2260"/>
+  <outline>
+    <contour>
+      <point x="83.7249984741211" y="450" type="line"/>
+      <point x="503.7249984741211" y="450" type="line"/>
+      <point x="503.7249984741211" y="590" type="line"/>
+      <point x="417.2002410888672" y="590" type="line"/>
+      <point x="433.7249984741211" y="606.5247573852539" type="line"/>
+      <point x="433.7249984741211" y="660" type="line"/>
+      <point x="293.7249984741211" y="660" type="line"/>
+      <point x="293.7249984741211" y="590" type="line"/>
+      <point x="83.7249984741211" y="590" type="line"/>
+    </contour>
+    <contour>
+      <point x="83.7249984741211" y="210" type="line"/>
+      <point x="170.249755859375" y="210" type="line"/>
+      <point x="153.7249984741211" y="193.4752426147461" type="line"/>
+      <point x="153.7249984741211" y="140" type="line"/>
+      <point x="293.7249984741211" y="140" type="line"/>
+      <point x="293.7249984741211" y="210" type="line"/>
+      <point x="503.7249984741211" y="210" type="line"/>
+      <point x="503.7249984741211" y="350" type="line"/>
+      <point x="83.7249984741211" y="350" type="line"/>
+    </contour>
+  </outline>
+</glyph>

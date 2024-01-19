@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="combining_hook" format="2">
+  <advance width="196.8"/>
+  <unicode hex="0309"/>
+  <outline>
+    <contour>
+      <point x="-265.90000000000003" y="644.44444" type="line"/>
+      <point x="-145.9" y="644.44444" type="line"/>
+      <point x="-145.9" y="690.28036" type="line"/>
+      <point x="-220.06408000000002" y="764.44444" type="line"/>
+      <point x="-265.90000000000003" y="764.44444" type="line"/>
+    </contour>
+  </outline>
+</glyph>

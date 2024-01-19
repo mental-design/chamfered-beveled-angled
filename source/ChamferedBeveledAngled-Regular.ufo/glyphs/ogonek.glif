@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ogonek" format="2">
+  <advance width="274.05"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <contour>
+      <point x="137.025" y="-180.0" type="line"/>
+      <point x="137.025" y="0.0" type="line"/>
+      <point x="68.27112" y="0.0" type="line"/>
+      <point x="-42.975" y="-111.24612" type="line"/>
+      <point x="-42.975" y="-180.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

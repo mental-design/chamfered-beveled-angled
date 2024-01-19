@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ae" format="2">
+  <advance width="1050.0"/>
+  <unicode hex="00E6"/>
+  <outline>
+    <contour>
+      <point x="376.39320373535156" y="-5" type="line"/>
+      <point x="500" y="118.60679626464844" type="line"/>
+      <point x="500" y="481.39320373535156" type="line"/>
+      <point x="376.39320373535156" y="605" type="line"/>
+      <point x="300" y="605" type="line"/>
+      <point x="300" y="-5" type="line"/>
+    </contour>
+    <contour>
+      <point x="673.6067962646484" y="-5" type="line"/>
+      <point x="750" y="-5" type="line"/>
+      <point x="750" y="605" type="line"/>
+      <point x="673.6067962646484" y="605" type="line"/>
+      <point x="550" y="481.39320373535156" type="line"/>
+      <point x="550" y="118.60679626464844" type="line"/>
+    </contour>
+    <contour>
+      <point x="800" y="195" type="line"/>
+      <point x="1000" y="195" type="line"/>
+      <point x="1000" y="481.39320373535156" type="line"/>
+      <point x="876.3932037353516" y="605" type="line"/>
+      <point x="800" y="605" type="line"/>
+    </contour>
+    <contour>
+      <point x="53.125" y="600.0" type="line"/>
+      <point x="53.125" y="400.0" type="line"/>
+      <point x="129.51819999999998" y="400.0" type="line"/>
+      <point x="253.125" y="523.6068" type="line"/>
+      <point x="253.125" y="600.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="173.60679626464844" y="-5" type="line"/>
+      <point x="250" y="-5" type="line"/>
+      <point x="250" y="395" type="line"/>
+      <point x="173.60679626464844" y="395" type="line"/>
+      <point x="50" y="271.39320373535156" type="line"/>
+      <point x="50" y="118.60679626464844" type="line"/>
+    </contour>
+  </outline>
+</glyph>

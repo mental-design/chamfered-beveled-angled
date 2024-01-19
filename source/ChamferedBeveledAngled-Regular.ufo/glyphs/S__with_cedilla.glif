@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="S_with_cedilla" format="2">
+  <advance width="501.55"/>
+  <unicode hex="015E"/>
+  <outline>
+    <contour>
+      <point x="158.2711181640625" y="310" type="line"/>
+      <point x="227.0250015258789" y="310" type="line"/>
+      <point x="227.0250015258789" y="800" type="line"/>
+      <point x="158.2711181640625" y="800" type="line"/>
+      <point x="47.025001525878906" y="688.7538833618164" type="line"/>
+      <point x="47.025001525878906" y="421.2461166381836" type="line"/>
+    </contour>
+    <contour>
+      <point x="448.9" y="800.0" type="line"/>
+      <point x="268.9" y="800.0" type="line"/>
+      <point x="268.9" y="731.24612" type="line"/>
+      <point x="380.14612" y="620.0" type="line"/>
+      <point x="448.9" y="620.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="343.2788772583008" y="0" type="line"/>
+      <point x="454.5250015258789" y="111.2461166381836" type="line"/>
+      <point x="454.5250015258789" y="378.7538833618164" type="line"/>
+      <point x="343.2788772583008" y="490" type="line"/>
+      <point x="274.5250015258789" y="490" type="line"/>
+      <point x="274.5250015258789" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="49.8375" y="0" type="line"/>
+      <point x="229.8375" y="0" type="line"/>
+      <point x="229.8375" y="68.75388" type="line"/>
+      <point x="118.59137999999999" y="180.0" type="line"/>
+      <point x="49.8375" y="180.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="239.525" y="-205.0" type="line"/>
+      <point x="419.525" y="-205.0" type="line"/>
+      <point x="419.525" y="-136.24612000000002" type="line"/>
+      <point x="308.27888" y="-25.0" type="line"/>
+      <point x="239.525" y="-25.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

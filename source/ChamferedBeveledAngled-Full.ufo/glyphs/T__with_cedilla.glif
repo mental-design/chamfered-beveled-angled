@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T_with_cedilla" format="2">
+  <advance width="800.0"/>
+  <unicode hex="0162"/>
+  <outline>
+    <contour>
+      <point x="50.0" y="800.0" type="line"/>
+      <point x="50.0" y="600.0" type="line"/>
+      <point x="126.3932" y="600.0" type="line"/>
+      <point x="250.0" y="723.6068" type="line"/>
+      <point x="250.0" y="800.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="0" type="line"/>
+      <point x="500" y="0" type="line"/>
+      <point x="500" y="800" type="line"/>
+      <point x="300" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="750.0" y="800.0" type="line"/>
+      <point x="550.0" y="800.0" type="line"/>
+      <point x="550.0" y="723.6068" type="line"/>
+      <point x="673.6068" y="600.0" type="line"/>
+      <point x="750.0" y="600.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="387.5" y="-225.0" type="line"/>
+      <point x="587.5" y="-225.0" type="line"/>
+      <point x="587.5" y="-148.60680000000002" type="line"/>
+      <point x="463.8932" y="-25.0" type="line"/>
+      <point x="387.5" y="-25.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

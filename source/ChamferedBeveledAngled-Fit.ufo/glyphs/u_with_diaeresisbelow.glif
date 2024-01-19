@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u_with_diaeresisbelow" format="2">
+  <advance width="453.2"/>
+  <unicode hex="1E73"/>
+  <outline>
+    <contour>
+      <point x="142.98544311523438" y="-5" type="line"/>
+      <point x="204.0999984741211" y="-5" type="line"/>
+      <point x="204.0999984741211" y="600" type="line"/>
+      <point x="44.099998474121094" y="600" type="line"/>
+      <point x="44.099998474121094" y="93.88543701171875" type="line"/>
+    </contour>
+    <contour>
+      <point x="310.21456146240234" y="-5" type="line"/>
+      <point x="409.0999984741211" y="93.88543701171875" type="line"/>
+      <point x="409.0999984741211" y="600" type="line"/>
+      <point x="249.0999984741211" y="600" type="line"/>
+      <point x="249.0999984741211" y="-5" type="line"/>
+    </contour>
+    <contour>
+      <point x="44.099999999999994" y="-210.0" type="line"/>
+      <point x="204.1" y="-210.0" type="line"/>
+      <point x="204.1" y="-50.0" type="line"/>
+      <point x="44.099999999999994" y="-50.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="249.1" y="-210.0" type="line"/>
+      <point x="409.1" y="-210.0" type="line"/>
+      <point x="409.1" y="-50.0" type="line"/>
+      <point x="249.1" y="-50.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="apostrophe" format="2">
+  <advance width="248.2"/>
+  <unicode hex="02BC"/>
+  <outline>
+    <contour>
+      <point x="105.21456146240234" y="600" type="line"/>
+      <point x="204.0999984741211" y="698.8854370117188" type="line"/>
+      <point x="204.0999984741211" y="800" type="line"/>
+      <point x="44.099998474121094" y="800" type="line"/>
+      <point x="44.099998474121094" y="600" type="line"/>
+    </contour>
+  </outline>
+</glyph>

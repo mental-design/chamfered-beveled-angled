@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I_with_dotbelow" format="2">
+  <advance width="300.0"/>
+  <unicode hex="1ECA"/>
+  <outline>
+    <contour>
+      <point x="50" y="0" type="line"/>
+      <point x="250" y="0" type="line"/>
+      <point x="250" y="800" type="line"/>
+      <point x="50" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="50.0" y="-225.0" type="line"/>
+      <point x="250.0" y="-225.0" type="line"/>
+      <point x="250.0" y="-25.0" type="line"/>
+      <point x="50.0" y="-25.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="invexclamation" format="2">
+  <advance width="222.45"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <contour>
+      <point x="41.225" y="460.0" type="line"/>
+      <point x="181.225" y="460.0" type="line"/>
+      <point x="181.225" y="600.0" type="line"/>
+      <point x="41.225" y="600.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="41.224998474121094" y="-200" type="line"/>
+      <point x="181.2249984741211" y="-200" type="line"/>
+      <point x="181.2249984741211" y="378.75" type="line"/>
+      <point x="41.224998474121094" y="378.75" type="line"/>
+    </contour>
+  </outline>
+</glyph>

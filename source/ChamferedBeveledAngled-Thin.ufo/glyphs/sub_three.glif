@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sub_three" format="2">
+  <advance width="308.75"/>
+  <unicode hex="2083"/>
+  <outline>
+    <contour>
+      <point x="35.625" y="400.0" type="line"/>
+      <point x="35.625" y="300.0" type="line"/>
+      <point x="73.82159999999999" y="300.0" type="line"/>
+      <point x="135.625" y="361.8034" type="line"/>
+      <point x="135.625" y="400.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="211.32160186767578" y="-205" type="line"/>
+      <point x="273.125" y="-143.19660186767578" type="line"/>
+      <point x="273.125" y="138.19660186767578" type="line"/>
+      <point x="211.32160186767578" y="200" type="line"/>
+      <point x="273.125" y="261.8033981323242" type="line"/>
+      <point x="273.125" y="400" type="line"/>
+      <point x="173.125" y="400" type="line"/>
+      <point x="173.125" y="-205" type="line"/>
+    </contour>
+    <contour>
+      <point x="135.625" y="-105.0" type="line"/>
+      <point x="35.625" y="-105.0" type="line"/>
+      <point x="35.625" y="-143.1966" type="line"/>
+      <point x="97.42840000000001" y="-205.0" type="line"/>
+      <point x="135.625" y="-205.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A_with_smalltilde" format="2">
+  <advance width="501.55"/>
+  <unicode hex="00C3"/>
+  <outline>
+    <contour>
+      <point x="70.7750015258789" y="904.864990234375" type="line"/>
+      <point x="70.7750015258789" y="836.1111145019531" type="line"/>
+      <point x="319.5288772583008" y="836.1111145019531" type="line"/>
+      <point x="430.7750015258789" y="947.3572311401367" type="line"/>
+      <point x="430.7750015258789" y="1016.1111145019531" type="line"/>
+      <point x="182.0211181640625" y="1016.1111145019531" type="line"/>
+    </contour>
+    <contour>
+      <point x="47.025001525878906" y="0" type="line"/>
+      <point x="227.0250015258789" y="0" type="line"/>
+      <point x="227.0250015258789" y="805" type="line"/>
+      <point x="158.2711181640625" y="805" type="line"/>
+      <point x="47.025001525878906" y="693.7538833618164" type="line"/>
+    </contour>
+    <contour>
+      <point x="274.5250015258789" y="0" type="line"/>
+      <point x="454.5250015258789" y="0" type="line"/>
+      <point x="454.5250015258789" y="693.7538833618164" type="line"/>
+      <point x="343.2788772583008" y="805" type="line"/>
+      <point x="274.5250015258789" y="805" type="line"/>
+    </contour>
+  </outline>
+</glyph>

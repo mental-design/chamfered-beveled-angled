@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="combining_breveinv" format="2">
+  <advance width="308.75"/>
+  <unicode hex="0311"/>
+  <outline>
+    <contour>
+      <point x="-254.375" y="685.4188232421875" type="line"/>
+      <point x="-254.375" y="647.2222213745117" type="line"/>
+      <point x="-54.375" y="647.2222213745117" type="line"/>
+      <point x="-54.375" y="685.4188232421875" type="line"/>
+      <point x="-116.17839813232422" y="747.2222213745117" type="line"/>
+      <point x="-192.57160186767578" y="747.2222213745117" type="line"/>
+    </contour>
+  </outline>
+</glyph>

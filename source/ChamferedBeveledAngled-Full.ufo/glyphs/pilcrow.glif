@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pilcrow" format="2">
+  <advance width="550.0"/>
+  <unicode hex="00B6"/>
+  <outline>
+    <contour>
+      <point x="173.60679626464844" y="400" type="line"/>
+      <point x="250" y="400" type="line"/>
+      <point x="250" y="800" type="line"/>
+      <point x="173.60679626464844" y="800" type="line"/>
+      <point x="50" y="676.3932037353516" type="line"/>
+      <point x="50" y="523.6067962646484" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="-100" type="line"/>
+      <point x="500" y="-100" type="line"/>
+      <point x="500" y="800" type="line"/>
+      <point x="300" y="800" type="line"/>
+    </contour>
+  </outline>
+</glyph>

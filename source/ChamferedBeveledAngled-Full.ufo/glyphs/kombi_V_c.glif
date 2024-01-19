@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kombi_Vc" format="2">
+  <advance width="300.0"/>
+  <unicode hex="E015"/>
+  <outline>
+    <contour>
+      <point x="173.60679626464844" y="0" type="line"/>
+      <point x="250" y="0" type="line"/>
+      <point x="250" y="476.39320373535156" type="line"/>
+      <point x="126.39320373535156" y="600" type="line"/>
+      <point x="50" y="600" type="line"/>
+      <point x="50" y="123.60679626464844" type="line"/>
+    </contour>
+  </outline>
+</glyph>

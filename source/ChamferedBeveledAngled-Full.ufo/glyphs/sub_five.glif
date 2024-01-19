@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sub_five" format="2">
+  <advance width="550.0"/>
+  <unicode hex="2085"/>
+  <outline>
+    <contour>
+      <point x="179.85679626464844" y="0" type="line"/>
+      <point x="256.25" y="0" type="line"/>
+      <point x="256.25" y="400" type="line"/>
+      <point x="56.25" y="400" type="line"/>
+      <point x="56.25" y="123.60679626464844" type="line"/>
+    </contour>
+    <contour>
+      <point x="493.75" y="400.0" type="line"/>
+      <point x="293.75" y="400.0" type="line"/>
+      <point x="293.75" y="323.6068" type="line"/>
+      <point x="417.3568" y="200.0" type="line"/>
+      <point x="493.75" y="200.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="376.39320373535156" y="-205" type="line"/>
+      <point x="500" y="-81.39320373535156" type="line"/>
+      <point x="500" y="71.39320373535156" type="line"/>
+      <point x="376.39320373535156" y="195" type="line"/>
+      <point x="300" y="195" type="line"/>
+      <point x="300" y="-205" type="line"/>
+    </contour>
+    <contour>
+      <point x="250.0" y="-5.0" type="line"/>
+      <point x="50.0" y="-5.0" type="line"/>
+      <point x="50.0" y="-81.3932" type="line"/>
+      <point x="173.60680000000002" y="-205.0" type="line"/>
+      <point x="250.0" y="-205.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
